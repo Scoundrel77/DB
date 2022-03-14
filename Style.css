@@ -1,0 +1,16 @@
+th, td {
+	padding: 10px;
+}
+
+th{
+	background: #606060;
+	color: #fff;
+}
+
+td{
+	background: #b5b5b5;
+}
+
+body{
+	background: url(151205-kosmos-speceffekty-elektrik-art-grafika-1920x1080.jpg);
+}
